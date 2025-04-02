@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap');
+:root{ /*=== presudo-class === */
+    /*.5rem = 8px | 1rem = 16px ...*/
+    --nav-height:3.5rem;
+    --header-height : 9rem;
+    /*======màu======*/
+    --black-color: rgba(0, 0, 0, 0.7);
+    --vanilla-color: hsl(35 30% 81%);
+    --body-color: hsl(223, 9%, 85%);
+    --white-color : #fff;
+    --black-color: hsl(220, 24%, 12%);
+    --lmao-color:rgb(230, 219, 219);
+    --text-color:hsl(113 28% 81%);
+    --hover-color : hsl(113 29% 79%);
+    --violet-color:hsl(258, 20%, 45%);
+    --sidebar-color :#fff;
+    --primary-color-light: #f6f5ff;
+    --red-color:hsl(352 74% 58%);
+    /*======font====*/
+    --body-font:""Arial", "Helvetica", sans-serif";
+    --font-regular :400;
+    --font-semi-bold:600;
+    --font-size: ;
+    /*=======z-index======*/
+    --z-index:10;
+    --z-fixed:1000;
+}
+
+*{
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+}
